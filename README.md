@@ -1,2 +1,2 @@
 # Web.Dev
-This repository contains my attempts at making websites
+This repository contains my attempts at making websites. Published?
